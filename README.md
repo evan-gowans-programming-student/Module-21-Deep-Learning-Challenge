@@ -1,5 +1,17 @@
 # Module-21-Deep-Learning-Challenge
 
+### **Repository Overview**
+This repository contains the code and files used to develop and optimize a deep learning model for predicting successful charitable donations. The primary files are:
+
+- **`AlphabetSoupCharity_Optimization.ipynb`** – Contains the full Jupyter Notebook with preprocessing, model building, and optimization.
+- **`AlphabetSoupCharity_Optimization.h5`** – The trained neural network model, saved in HDF5 format.
+- **`README.md`** – Documentation explaining the project, methodology, and results.
+
+### **How to Access the Code**
+All project files can be found within this repository. To view or run the Jupyter Notebook, download `AlphabetSoupCharity_Optimization.ipynb` and open it in Google Colab or Jupyter Notebook.
+
+---
+
 ## **Written Report**
 
 ---
