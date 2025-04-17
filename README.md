@@ -1,7 +1,5 @@
 # Module-21-Deep-Learning-Challenge
 
-
-# **AlphabetSoup Charity Model Optimization**
 ## **Analysis of Deep Learning Model for Predicting Donation Success**
 
 ---
